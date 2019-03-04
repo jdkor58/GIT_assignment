@@ -1,5 +1,5 @@
 This is the new first line.
 Matt is adding nifty new content!
 This is the initial contents
-of the first file that
+of the first file that (modifies)
 comprises the project.
